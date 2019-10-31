@@ -1,5 +1,7 @@
 import os
-
+#https://devcenter.heroku.com/articles/heroku-cli
+#heroku login
+#heroku logs --app=
 from flask import Flask
 from flask_restful import Api
 from flask_jwt import JWT
